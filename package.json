@@ -30,7 +30,7 @@
         "esm": "^3.2.22",
         "eventemitter3": "^4.0.7",
         "utf8": "^3.0.0",
-        "uWebSockets.js": "github:uNetworking/uWebSockets.js#v19.2.0"
+        "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.32.0"
     },
     "devDependencies": {
         "jasmine": "^3.5.0"
